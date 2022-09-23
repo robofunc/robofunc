@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @robofunc
 - 👀 I’m interested in design, Wordpress, General HTML / CSS
 - 🌱 I’m currently learning Wordpress
-- 💞️ I’m looking to collaborate on projects that need design (I have 20 years of brading / art-direction / design experience)
+- 💞️ I’m looking to collaborate on projects that need design (I have 20 years of branding / art-direction / design experience)
 - 📫 How to reach me matt.kannenberg@gmail.com
 
 <!---
